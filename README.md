@@ -29,7 +29,7 @@ Os dados analisados no dashboard foram extraídos de três planilhas principais:
 2. **Saídas**: Dados de despesas e custos, detalhados por categorias.
 3. **Clientes**: Informações sobre os clientes e suas características.  
 
-Os dados passaram por um processo de transformação no Power BI, garantindo consistência e qualidade para a criação dos visuais.
+Os dados passaram por um processo de transformação no Power Query, garantindo consistência e qualidade para a criação dos visuais.
 
 ## 📈 Destaques do Dashboard
 
@@ -43,8 +43,7 @@ Os dados passaram por um processo de transformação no Power BI, garantindo con
   - Análise mensal com comparação ao ano anterior.
 
 - **Composição de Custos e Despesas**:
-  - Custos fixos e variáveis (74% vs 26%).
-  - Despesas operacionais e não operacionais (73% vs 27%).
+  - Custos variáveis e fixos (74% vs 26%).
 
 - **TOP 5 Clientes por Receita**:
   - Cliente 26: **R$ 3,8 Mi**
